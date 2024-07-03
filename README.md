@@ -1,5 +1,7 @@
 # Google Search, Image Search, and Advanced Search
 To view the website click on the link: https://raicsp.github.io/git-collab/
-Perez, Raica Kathleen
-Alipustain, Jhon Denver
-Abiog, Christian
+
+**Contibutors:**
+1. Perez, Raica Kathleen
+2. Alipustain, Jhon Denver
+3. Abiog, Christian
